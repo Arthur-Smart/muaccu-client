@@ -1,0 +1,18 @@
+.homeabout{
+    width:100%;
+}
+
+.homeabout-left{
+    width:50%;
+}
+
+.homeabout-left img{
+    width:450px;
+    height:350px;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.homeabout-right{
+    width:50%;
+}

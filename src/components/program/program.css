@@ -1,0 +1,17 @@
+.program{
+    width:100%;
+}
+
+.program-left{
+    width:47%;
+}
+
+.video-container{
+    width:90%;
+    height:24vh;
+    background-color: #fff;
+}
+
+.program-right{
+    width:47%;
+}

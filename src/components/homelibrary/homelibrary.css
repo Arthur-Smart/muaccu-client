@@ -1,0 +1,17 @@
+.homelibrary{
+    width:100%;
+    background-color: #F8F9FC;
+}
+
+.lib-title{
+    margin-top: -100px;
+}
+
+.lib-container{
+    width:30%;
+    background-color: white;
+}
+
+.lib-btn{
+    width:90%;
+}
